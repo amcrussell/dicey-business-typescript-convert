@@ -1,0 +1,34 @@
+
+
+.buttonRow{
+
+    margin-top: 5em;
+    margin-left: 8em;
+}
+
+.button{
+    padding: 2rem 2rem;
+
+}
+
+.dieContainer{
+    margin: 1rem;
+    padding: 2rem 2rem;
+    text-align: center;
+}
+
+.die{
+    display: inline-block;
+    border: 2px solid cyan;
+    padding: 2em;
+    margin: 1em;
+    vertical-align: middle;
+    border-radius: 15px;
+    height: 2em;
+}
+
+.text{
+    display:inline;
+    font-size:xx-large;
+    font-weight: 800;
+}

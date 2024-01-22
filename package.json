@@ -1,0 +1,21 @@
+{
+  "name": "dicey-business-typescript-convert",
+  "version": "1.0.0",
+  "description": "Dicey Business",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jquery": "^3.5.29",
+    "commonjs": "^0.0.1",
+    "jquery": "^3.7.1",
+    "ts-loader": "^9.5.1",
+    "typescript": "^5.3.3",
+    "webpack": "^5.89.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
